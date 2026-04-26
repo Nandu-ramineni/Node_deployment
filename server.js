@@ -8,7 +8,7 @@ app.use(express.json());
 
 // App Info
 const appInfo = {
-  name: "Auto Deploy Test API",
+  name: "Auto Deploy Test API's",
   version: "1.0.0",
   status: "Running Successfully 🚀",
 };
