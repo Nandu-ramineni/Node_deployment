@@ -30,7 +30,7 @@ app.get("/api", (req, res) => {
 // Sample Data Route
 app.get("/api/data", (req, res) => {
   const data = {
-    message: "This is dynamic data from the server",
+    message: "This is dynamic data from the server api",
     timestamp: new Date(),
     success: true,
   };
