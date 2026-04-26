@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
 
 // API Info Route
 app.get("/api", (req, res) => {
-  res.json(appInfo);
+  res.json(appInfo); 
 });
 
 // Sample Data Route
